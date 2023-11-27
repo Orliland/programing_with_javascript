@@ -23,7 +23,13 @@ console.log("Is", num2, "an even number?", result2);
 console.log(5 + 10);
 
 // Task 5
-var now = " Now in ";
+var now = "Now in ";
 var three = 3;
 var d = "D!";
 console.log(now + three + d);
+
+// Task 6
+var counter = 0;
+counter += 5;
+counter += 3;
+console.log(counter);

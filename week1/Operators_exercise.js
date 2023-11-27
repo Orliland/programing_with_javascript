@@ -18,3 +18,6 @@ var result2 = test2 === 0;
 
 console.log("Is", num1, "an even number?", result1);
 console.log("Is", num2, "an even number?", result2);
+
+// Task 4
+console.log(5 + 10);

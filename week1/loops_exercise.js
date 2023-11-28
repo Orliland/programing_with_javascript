@@ -9,3 +9,11 @@ for (var i = 5; i >= 1; i--) {
   console.log(i);
 }
 console.log("Countdown finished!");
+
+// task 3
+var counter = 1;
+while (counter <= 5) {
+  console.log(counter);
+  counter++;
+}
+console.log("Counting completed!");

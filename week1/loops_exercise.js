@@ -17,3 +17,11 @@ while (counter <= 5) {
   counter++;
 }
 console.log("Counting completed!");
+
+// task 4
+var counter = 5;
+while (counter >= 1) {
+  console.log(counter);
+  counter--;
+}
+console.log("Countdown finished!");

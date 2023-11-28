@@ -25,3 +25,10 @@ while (counter >= 1) {
   counter--;
 }
 console.log("Countdown finished!");
+
+// task 5
+var year = 2018;
+while (year <= 2022) {
+  console.log(year);
+  year++;
+}

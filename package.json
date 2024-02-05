@@ -1,0 +1,15 @@
+{
+  "name": "programing_with_javascript",
+  "version": "1.0.0",
+  "description": "This repo is from the Programming with Javascript course from the Meta Front-End professional certificate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
